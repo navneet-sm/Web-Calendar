@@ -1,0 +1,7 @@
+This is a project in Jetbrains Curriculum (Python Developer)
+
+Its a simple REST service with Flask framework.
+Its a Web Calendar that stores and edits 'events' in a database based on date.
+
+For more info visit the link :- https://hyperskill.org/projects/170
+
